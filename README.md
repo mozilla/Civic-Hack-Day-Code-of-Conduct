@@ -1,9 +1,11 @@
-codeofconduct
-=============
+code of conduct
+===============
 
-####Code for America's Code of Conduct
+This Mozilla event will be overseen by the Code for America Code of Conduct. See `reporting.md` for how to report an incident
 
-The Code for America community expects that Code for America network activities, events, and digital forums:
+####Code of Conduct
+
+Mozilla and the Code for America community expects that Code for America network activities, events, and digital forums:
 
 1. Are a safe and respectful environment for all participants.
 2. Are a place where people are free to fully express their identities.
@@ -18,7 +20,7 @@ The Code for America community expects that Code for America network activities,
 11. Ensure that the relationships and conversations between community members, the local government staff and community partners remain respectful, participatory, and productive.
 12. Provide an environment where people are free from discrimination or harassment.
 
-Code for America reserves the right to ask anyone in violation of these policies not to participate in Code for America network activities, events, and digital forums.
+Mozilla and Code for America reserve the right to ask anyone in violation of these policies not to participate in Code for America network activities, events, and digital forums.
 
 ####Code for America's Anti-Harassment Policy
 
@@ -28,7 +30,7 @@ This policy is based on several other policies, including the Ohio LinuxFest ant
 
 * * * 
 
-All Code for America network activities, events, and digital forums and their staff, presenters, and participants are held to an anti-harassment policy, included below.
+The  Code for America network activities, events, and digital forums and their staff, presenters, and participants are held to an anti-harassment policy, included below.
 
 In addition to governing our own events by this policy, Code for America will only lend our brand and fund groups that offer an anti-harassment policy to their attendees. For information on how to offer an anti-harassment policy to your group, <a href="https://docs.google.com/a/codeforamerica.org/document/d/1Zg2FDt7awgfCmdcbzMwKHMb1A7KDOhs_z7ibCb3TLLQ/edit">see this guide</a>.
 
@@ -38,19 +40,8 @@ Harassment includes but is not limited to: offensive verbal or written comments 
 
 If a participant engages in harassing behavior, the organizers may take any action they deem appropriate, including warning the offender or expulsion from Code for America network activities, events, and digital forums. 
 
-If you are being harassed, notice that someone else is being harassed, or have any other concerns, please contact a member of the event staff or forum administrator immediately. You can contact them at [EVENT ORGANIZER/FORUM ADMINISTRATOR EMAIL AND PHONE NUMBER]. Event staff or forum administrators will be happy to help participants contact hotel/venue security or local law enforcement, provide escorts, or otherwise assist those experiencing harassment to feel safe for the duration of the event.
+If you are being harassed, notice that someone else is being harassed, or have any other concerns, please contact a member of the event staff or forum administrator immediately. You can contact them at lonnen@mozilla.com. Event staff or forum administrators will be happy to help participants contact venue security or local law enforcement, provide escorts, or otherwise assist those experiencing harassment to feel safe for the duration of the event.
 
 If you cannot reach an event organizer or forum administrator and/or it is an emergency, please call 911 and/or remove yourself from the situation. 
 
-You can also contact Code for America about harassment at safespace@codeforamerica.org and feel free to use the email template below. Code for America staff acknowledge that we are not always in a position to evaluate a given situation due to the number of events and the fact that our team is not always present. However, we are hopeful that by providing these guidelines we are establishing a community that jointly adheres to these values and can provide an environment that is welcoming to all.
-
-We value your attendance and hope that by communicating these expectations widely we can all enjoy a harassment-free environment.
-
-####Email Template for Anti-Harassment Reporting
-
-SUBJECT: Safe Space alert at [EVENT NAME]
-
-I am writing because of harassment at a Code for America Communities event, (NAME, PLACE, DATE OF EVENT). 
-
-You can reach me at (CONTACT INFO). Thank you.
-
+We are hopeful that by providing these guidelines we are establishing a community that jointly adheres to these values and can provide an environment that is welcoming to all. We value your attendance and hope that by communicating these expectations widely we can all enjoy a harassment-free environment.
